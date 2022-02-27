@@ -1,0 +1,155 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Preston, Novemb. 17. 1646. The deliberate resolution of the ministers of the the Gospel within the county palatine of Lancaster with their grounds and cautions according to which they put into execution the Presbyteriall government upon the present ordinances of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82305</idno>
+            <idno type="STC">Wing D901A</idno>
+            <idno type="STC">Thomason E371_2</idno>
+            <idno type="STC">ESTC R201301</idno>
+            <idno type="EEBO-CITATION">99861825</idno>
+            <idno type="PROQUEST">99861825</idno>
+            <idno type="VID">160122</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82305)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160122)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 59:E371[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Preston, Novemb. 17. 1646. The deliberate resolution of the ministers of the the Gospel within the county palatine of Lancaster with their grounds and cautions according to which they put into execution the Presbyteriall government upon the present ordinances of Parliament.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Luke Favvne, and are to be sold at his shop at the sign of the Parrot in Pauls-Church-yard,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Jan: 14th 1646"; the 7 in imprint date crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Government --  Early works to 1800.</term>
+               <term>Lancashire (England) --  Church history --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160122:1" rendition="simple:additions"/>
+            <p>
+               <hi>Preſton,</hi> Novemb. 17. 1646.</p>
+            <p>The deliberate RESOLUTION of the <hi>Miniſters</hi> of the <hi>Goſpel</hi> within the County Palatine of LANCASTER With their grounds and Cautions according to which they put into exe<g ref="char:EOLhyphen"/>cution the Presbyteriall Government upon the preſent ORDINANCES OF PARLIAMENT.</p>
+            <p>
+               <add>Jan: 1<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <hi rend="sup">th</hi> 1646</add> 
+               <hi>LONDON,</hi> Printed for LUKE FAVVNE, and are to be ſold at his ſhop at the ſign of the Parrot in Pauls-Church-yard 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160122:2"/>
+            <pb n="3" facs="tcp:160122:2"/>
+            <opener>
+               <dateline>Preſton <date>Novemb. 17. 1646.</date>
+               </dateline>
+            </opener>
+            <head type="sub">The deliberate Reſolution of the Miniſters of the Goſpel within the County PALATINE of LANCASTER, &amp;c.</head>
+            <p>
+               <seg rend="decorInit">W</seg>EE Miniſters of Chriſt reſiding within the County of Lancaſter, ſeriouſly weighing, How <hi>that by the mercifull aſſiſtance of God,</hi> the Parliament hath <hi>removed the book of Common Prayer with all its unneceſſary and burden<g ref="char:EOLhyphen"/>ſome Ceremonies, and eſt<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bliſhed the Directo<g ref="char:EOLhyphen"/>ry in the room thereof; and hath aboliſh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d the Prelaticall Hierarchy by Arch-biſhops, Biſhops and their De<g ref="char:EOLhyphen"/>pendents and in ſtead thereof laid the foundation of a Presbyteri<g ref="char:EOLhyphen"/>all Government in every congregation, with ſubordination to Claſſicall Provinciall and Nationall Aſſemblie</hi> (that govern<g ref="char:EOLhyphen"/>ment we apprehend moſt agreeable the Word of God, and which is practiſed by the beſt Reformed Churches, keeping a golden mean betwixt Prelaticall Tyranny, and Popular Anarchy, ſtrengthned by the light of Nature, the moſt ſuitable to the civill Government of this Kingdome, a Government that the old god<g ref="char:EOLhyphen"/>ly non-conformiſts who were in their times Pillars in the Church, and the moderate conſcionable conformiſts, did pray for, con<g ref="char:EOLhyphen"/>tend
+<pb n="4" facs="tcp:160122:3"/>for, write for, ſuffer for, and who if they had lived to ſee what we ſee, would have ſung old Simeons Song, and alſo con<g ref="char:EOLhyphen"/>ſidering, That the Parliament hath <hi>enabled the Elderſhips by their authority to keep away from the Lords Supper all ignorant per<g ref="char:EOLhyphen"/>ſons and many ſcandalous, with a Declaration of their Reſoluti<g ref="char:EOLhyphen"/>on, that all ſorts of notorious ſcandalous offenders ſhould be ſuſ<g ref="char:EOLhyphen"/>pended from the Sacrament, and likewiſe authorized the Claſſi<g ref="char:EOLhyphen"/>call presbyters to Ordain Ministers within their reſpective bounds:</hi> (For all which we deſire unfeignedly to be thankfull to Almighty God and do hereby teſtifie our due acknowledge<g ref="char:EOLhyphen"/>ment of the wiſdome, zeal, and piety of our Honourable Houſes therein;) And when alſo with ſad and bleeding hearts we cannot but obſerve the lamentable breaches, miſerable confuſion, diſor<g ref="char:EOLhyphen"/>der and unſettlement under which this poor diſtreſſed Church groans, the increaſe and ſpreading of all kind of errours, hereſies, blaſphemies, ſchiſm, and prophaneſs, tending to the utter ruin of many thouſand ſouls, and that ſo flatly contrary to our ſolemn Covenant, and that the Sacrament of the Lords Supper to the great grief and ſpirituall dammage of the godly hath been much diſuſed for want of a regular and effectuall means to keep back the ignorant and ſcandalous, and alſo that ſundry Congregations lye waſte and deſolate for want of Paſtors for lack of Ordination being all of them the wofull and ſad effects of Eccleſiaſticall Anarchy, and that therefore urgent and preſſing neceſſity is in<g ref="char:EOLhyphen"/>cumbent upon every one in their place, to their utmoſt to endea<g ref="char:EOLhyphen"/>vour the putting Church-government into execution, that ſo an effectuall means might be applyed for the healing of this ſick Church of her dangerous diſtempers, the remedying whereof when in any juſt and lawfull ſort it may be obtained, may admit no longer delay:</p>
+            <p>And whereas we have received the Votes of both Houſes of Parliament, <hi>approving the diviſion of our County into nine Claſſicall presbyteries, and alſo approving of the Miniſters and other perſons repreſented from this County as fit to be of the ſeve<g ref="char:EOLhyphen"/>rall reſpective Claſſis,</hi> for the better conſtituting of Elderſhips
+<pb n="5" facs="tcp:160122:3"/>in the particular congregations, and which in this extraordinary caſe before government be ſet up we conceive very uſeful, (and for which we return moſt humble and hearty thanks to the ho<g ref="char:EOLhyphen"/>norable Houſes and take the ſame as a reall teſtimony of their favourable and kind acceptance of our County-Petition lately preſented to them, being hereby incouraged to hope they alſo will in due time take the other particulars of that Petition into their conſideration) We do conceive it our duty, and according<g ref="char:EOLhyphen"/>ly reſolve to lay hold on this happy opportunity put into our hands, of beginning <hi>to actan reference to Church-government, by congregationall Claſſicall Provinciall and Nationall Aſ<g ref="char:EOLhyphen"/>ſemblies.</hi>
+            </p>
+            <p>But yet becauſe having peruſed all the ſeverall Ordinances of Parliament concerning Church Government, we finde ſundry things wanting (to inſtance onely in excommunication for one particular) which we apprehend neceſſary, and that we are as yet unſupplied or incompetently furniſhed with remedy againſt that which may greatly annoy the Church, and alſo remain unſa<g ref="char:EOLhyphen"/>tisfied in our conſciences concerning the warrantableneſs of other things eſtabliſhed; that we may approve our ſelves faithfull un<g ref="char:EOLhyphen"/>to God, juſtifie our actions before men, and preſerve the peace of our own conſciences, we have thought it neceſſary in all hu<g ref="char:EOLhyphen"/>mility and faithfulneſs to declare our reſolutions and the grounds we go upon.</p>
+            <p>As it is that which hath hitherto preſerved our fainting ſpirits in patience under hope, that ſhortly there would come forth ſuch a compleat form of Church-government and Diſcipline eſtabli<g ref="char:EOLhyphen"/>ſhed by publike authority as would be in every point fully ſatiſfa<g ref="char:EOLhyphen"/>ctory, ſo in this our beginning to enter upon this weighty buſineſſ, it would have been much more to our comfort and incourage<g ref="char:EOLhyphen"/>ment if our deſires herein had been accompliſhed; yet conſide<g ref="char:EOLhyphen"/>ring, that many things have hitherto retarded the work of refor<g ref="char:EOLhyphen"/>mation now in hand, and not knowing how long it may be be<g ref="char:EOLhyphen"/>fore it be compleated, we do not apprehend we can acquit our ſelves either, before God or men, therefore to do nothing at all, becauſe we have not every thing yet ſo full as we could deſire,
+<pb n="6" facs="tcp:160122:4"/>eſpecially when we alſo call to remembrance, what it hath pleaſed the Honourable Houſes to declare, ſo <hi>that it cannot be expected that a preſent rule in every particular should be ſetled all at once, but that there wil be need of ſupplyments and addi<g ref="char:EOLhyphen"/>tions and happily alſo of alterations in ſome things as experience shal bring to light the neceſſity thereof:</hi> But rather becauſe wee find ſeveral things eſtabliſhed in the preſent Ordinances, agree<g ref="char:EOLhyphen"/>able to the Word of God (notwithſtanding our non-ſatisfacti<g ref="char:EOLhyphen"/>on in other particulars) we conceive the diſcharge of our duty towards God, the edification of our people committed to our charge, the preventing the growth of the ſpreading miſchiefs of the times for want of Church Government, do require of us, that we ſhould for the preſent put in execution what we appre<g ref="char:EOLhyphen"/>hend in them correſpondent to the rule of Gods Word, and pray and wait on God for the altering of what hereafter we hope may appear to the Parliament to be otherwiſe, and alſo for the perfecting of them to an entire model of Church Government, and Diſcipline in all the parts thereof, when Gods time ſhal come, and he have fitted us for the receiving ſo great a mercy.</p>
+            <p>Here alſo we do freely acknowledge that it concerns the civil Magiſtrate to have his conſcience ſatisfied, concerning the law<g ref="char:EOLhyphen"/>fulneſs of all thoſe things to which the Church craves the adding of his civil ſanction. And however we beleeve, all the Officers of the Church do hold their Office and Authority immediately from Jeſus Chriſt as Mediator, who when <hi>he aſcended on high gave gifts unto men,</hi> and who is the only ſpiritual King, Gover<g ref="char:EOLhyphen"/>nor, and Monarch of the Church, the ſole head of all Eccleſi<g ref="char:EOLhyphen"/>aſtical Power and Spiritual Juriſdiction; and in whoſe name, and by whoſe authority the Church Officers, by way of imme<g ref="char:EOLhyphen"/>diate ſubordination, exerciſe their function; And though alſo with our reverend and godly brethren the Miniſters of London and Weſtminſter we hold <hi>that the power of Church cenſures, and in particular the keeping of ignorant and ſcandalous perſons from the Sacrament of the Lords Supper to be in Church Officers by the wil and appointment of Ieſus Chriſt;</hi> that is, in the Elders that rule and thoſe that labor in the Word and Doctrine: yet
+<pb n="7" facs="tcp:160122:4"/>we do moſt readily grant that the peaceable freedom of exerciſe of their office they enjoy from the civil Magiſtrate, who being Chriſtian and godly as he knows he is in duty bound (being himſelf alſo to give an account to God how he hath diſcharged the duty of his place) ſo he alſo will be ready <hi>to aſſiſt, maintain, and fortifie, the juriſdiction of the Church</hi> in which reſpect we have conceived our ſelves bound in conſcience (condemning the contrary practiſes of our diſſenting brethren) patiently to wait upon this Reforming Parliament (who for their aſſiſtance in matters of ſuch high concernment have called together a reve<g ref="char:EOLhyphen"/>rend and learned Aſſembly of godly Divines of both Kingdoms to adviſe withall) that ſo Church Government might be ſet up by their authority.</p>
+            <p>And as we do take our ſelves bound to yeeld all due ſubjecti<g ref="char:EOLhyphen"/>on to the civil Power <hi>not only for wrath, but alſo for conſcience ſake;</hi> ſo we hope in the exerciſe of our office, ſo to carry our ſelves, as not only to give no juſt occaſion of offence unto the Magiſtrate, but alſo <hi>to enjoy his concurrence with us on all occaſions, and to bee countable to him whenſoever hee ſhall call us thereunto:</hi> as alſo conſidering the great truſt repoſed in us by Jeſus Chriſt (to whom, having received our Commiſſion from him, we are to give an account how we have fulfilled our Miniſtry in every part thereof) we conceive it our duty, and by the grace of God reſolve, to make his Word our rule, in all ſuch things as concern the diſcharge of our Spiri<g ref="char:EOLhyphen"/>tuall functions, and ſhall carefully walk according to theſe pre<g ref="char:EOLhyphen"/>ſent Ordinances ſo far as we apprehend them agreeable to the un-erring pattern and (holding our ſelves by manifold and deep engagements moſt ſtrictly bound to pray dayly for the Honoura<g ref="char:EOLhyphen"/>ble Houſes of Parliament, that this great work of Reformation being by them ſo happily begun, may alſo by them with the ad<g ref="char:EOLhyphen"/>vice of the reverend Aſſembly of Divines, to the exceeding great rejoycing of all the Churches of God, be as gloriouſly finiſh<g ref="char:EOLhyphen"/>ed) do moſt humbly beſeech the Father of our Lord Jeſus Chriſt, the God of wiſdom and might, ſo to direct, guide, aſſiſt, and
+<pb n="8" facs="tcp:160122:5"/>ſtrengthen us by his holy Spirit in this great and weighty under<g ref="char:EOLhyphen"/>taking, as may be to the glory of his name, the advancement of the power of godlineſs, the ſuppreſſion of errors, ſchiſms, &amp; pro<g ref="char:EOLhyphen"/>phaneſs, the edification, peace, and eſtabliſhing of the Church, the juſt and due content of the Chriſtian Magiſtrate, the peace and comfort of our own ſouls here, and <hi>that when the chief Shepherd ſhal appear we may receive a crown of glory that fadeth not away.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
